@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-cont {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  background-size: cover;
+}
+.content {
+  background-color: #64748b;
+  background-size: cover;
+  width: 60%;
+  padding: 30px;
+}
+.main-head {
+  font-family: 'Roboto';
+  color: white;
+}
+.list-cont {
+  margin: 0;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.list-item {
+  width: 45%;
+  font-family: 'Roboto';
+  color: white;
+}
+.list-head {
+  font-size: 26px;
+  font-weight: bold;
+}
+.side-cont {
+  width: 40%;
+}

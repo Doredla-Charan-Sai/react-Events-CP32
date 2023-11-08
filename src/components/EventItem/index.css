@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.click-btn {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  margin: 0;
+  padding: 0px;
+}
+.image {
+  width: 100%;
+}
